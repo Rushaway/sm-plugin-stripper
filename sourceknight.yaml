@@ -9,9 +9,7 @@ project:
       unpack:
       - source: /addons
         dest: /addons
-
   root: /
-  workdir: /
-  output: /plugins
+  output: /addons/sourcemod/plugins
   targets:
     - Stripper
